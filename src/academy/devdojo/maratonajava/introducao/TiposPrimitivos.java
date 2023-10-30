@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula02TiposPrimitivos {
+public class TiposPrimitivos {
     public static void main(String[] args) {
         int idade = 22;
         System.out.println("Eu tenho " + idade + " anos.");

@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula04Operadores {
+public class Operadores {
     public static void main(String[] args) {
         int n1 = 10;
         double n2 = 20;
