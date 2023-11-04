@@ -13,13 +13,13 @@ public class HerancaTest01 {
         Endereco endereco = new Endereco();
         endereco.setRua("Rua 3");
         endereco.setCep("36190-290");
-        Pessoa pessoa = new Pessoa();
+        Pessoa pessoa = new Pessoa("Jorge");
         pessoa.setNome("Joao");
         pessoa.setCpf("15316347931");
         pessoa.setEndereco(endereco);
         pessoa.imprime();
 
-        Funcionario func = new Funcionario();
+        Funcionario func = new Funcionario("Joao");
         func.setCpf("12598668908");
         func.setSalario(513.6f);
         func.setNome("Julia");
