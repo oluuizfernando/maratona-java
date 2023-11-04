@@ -10,7 +10,6 @@ Playlist do curso: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2
 
 Os nomes dos diretórios não estão dentro das normas pois foram organizados de forma alfabética apenas para fins de organização.
 
-Aqui eu conto a minha história pelo Java através de códigos.
 Todos as atualizações feitas neste repositório são apenas as que eu considero importantes e relevantes
 para o meu estudo de Java ou que talvez eu possa não me lembrar um dia. Logo, aquilo que eu considero
 como fácil eu não inseri neste repositório(O que explica o código da aula01 já estar falando sobre for loops por exemplo).
