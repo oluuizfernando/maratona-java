@@ -1,15 +1,24 @@
-# maratona-java
- Repositorio destinado aos meus estudos de Java.
+# Meu Portfólio de Aprendizado em Java
+Este repositório é um espaço onde eu compartilho e demonstro o meu aprendizado em Java. Aqui você encontrará uma coleção de projetos e exercícios que desenvolvi ao longo do tempo para aprimorar minhas habilidades na linguagem Java.
 
-Por: Luiz Fernando
-
-Curso da DevDojo completo sobre Java atualizado.
-
-Autor do curso: https://www.youtube.com/@DevDojoBrasil
-Playlist do curso: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
-
+## Estrutura do Repositório
 Os nomes dos diretórios não estão dentro das normas pois foram organizados de forma alfabética apenas para fins de organização.
 
-Todos as atualizações feitas neste repositório são apenas as que eu considero importantes e relevantes
-para o meu estudo de Java ou que talvez eu possa não me lembrar um dia. Logo, aquilo que eu considero
-como fácil eu não inseri neste repositório(O que explica o código da aula01 já estar falando sobre for loops por exemplo).
+Objetivo
+Este repositório tem como objetivo documentar meu progresso e aprendizado em Java, servindo como um portfólio digital. Os projetos aqui presentes são uma amostra do meu conhecimento e capacidade de aplicar os princípios da programação Java em projetos práticos.
+
+Contribuições
+Contribuições, sugestões e feedbacks são bem-vindos! Se você identificar maneiras de melhorar algum código ou tiver sugestões para novos projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Contato
+Email: euluizfernando2001@gmail.com
+LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/luizfernandotr/)
+
+Este README fornece uma visão geral clara do propósito do repositório, sua estrutura, como usar os projetos e como contribuir ou entrar em contato. Personalize-o conforme necessário para refletir os detalhes específicos do seu próprio aprendizado em Java.
+
+### Autor do curso:
+- https://www.youtube.com/@DevDojoBrasil
+### Playlist do curso:
+- https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+
+
